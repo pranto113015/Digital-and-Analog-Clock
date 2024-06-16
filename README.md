@@ -2,7 +2,7 @@
 
 
 ## Live Demo
-You can view a live demo of the project [Click Here](#).
+You can view a live demo of the project [Click Here](https://pranto113015.github.io/Digital-and-Analog-Clock/).
 
 ![preview img](preview.png)
 
